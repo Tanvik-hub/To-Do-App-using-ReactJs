@@ -7,6 +7,7 @@
 - Add new tasks
 - Edit existing tasks
 - Mark tasks as completed
+-  Change background color
 - Delete tasks
 - Responsive design for desktop and mobile
 
